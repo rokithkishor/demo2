@@ -1,1 +1,2 @@
 #alapara kelapurom
+#include <stdio.h>
